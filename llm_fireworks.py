@@ -45,6 +45,8 @@ MODELS = (
     "accounts/fireworks/models/traditional-chinese-qlora-llama2",
     "accounts/fireworks/models/yi-34b-200k-capybara",
     "accounts/fireworks/models/zephyr-7b-beta",
+    "accounts/fireworks/models/deepseek-v2-lite-instruct",
+    "accounts/fireworks/models/deepseek-v2-instruct",
 )
 
 
