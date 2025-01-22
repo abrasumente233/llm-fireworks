@@ -1,6 +1,6 @@
 [project]
 name = "llm-fireworks"
-version = "0.1.0"
+version = "0.1.1"
 description = "Access fireworks.ai models via API"
 readme = "README.md"
 authors = [{name = "Simon Willison"}]
